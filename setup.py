@@ -39,7 +39,7 @@ setup(
     long_description=read('README.md'),
     dependency_links=[],
     install_requires=[
-        'django>=1.5'
+        'django>=4.0'
     ],
     classifiers=[
         'Development Status :: 4 - Beta',
